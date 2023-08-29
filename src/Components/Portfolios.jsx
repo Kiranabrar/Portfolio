@@ -13,8 +13,8 @@ function Portfolios() {
       img: portfolioprojectt,
       title: "Personal Portfolio",
       desc: "Responsive & fully functional Portfolio App. Used Tailwind CSS for Styles and React JS on the frontend",
-      live: "https://kiranabrar.github.io/E-commerce-store/",
-      code: "https://github.com/Kiranabrar/E-commerce-store.git",
+      live: "https://kiranabrar.github.io/Portfolio/",
+      code: "https://github.com/Kiranabrar/Portfolio.git",
     },
     {
       img: resumeprojectt,
