@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c14f47ca.css",
+    "main.js": "/Portfolio/static/js/main.17830d4e.js",
+    "static/js/787.30237536.chunk.js": "/Portfolio/static/js/787.30237536.chunk.js",
+    "static/media/recipe.png": "/Portfolio/static/media/recipe.e30ff7c4a16e1deb91a1.png",
+    "static/media/resume.png": "/Portfolio/static/media/resume.db65fd2f8002e5b8fc11.png",
+    "static/media/cocktail.png": "/Portfolio/static/media/cocktail.b6d9d5c626450ae10f55.png",
+    "static/media/weatherproject.png": "/Portfolio/static/media/weatherproject.b3e57cb9d3bccff5be1f.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.754413d514d4960ae485.png",
+    "static/media/ecommerce.png": "/Portfolio/static/media/ecommerce.5b38e7028a1af7d2f233.png",
+    "static/media/bootstraologo.png": "/Portfolio/static/media/bootstraologo.7be05c19fd2d48aaad5c.png",
+    "static/media/crud.png": "/Portfolio/static/media/crud.0a689750fe5ee877e9ea.png",
+    "static/media/portfolio.webp": "/Portfolio/static/media/portfolio.8d6a0a3552a735da07b5.webp",
+    "static/media/html5logo.png": "/Portfolio/static/media/html5logo.cd8a0b23e49d6c0b40df.png",
+    "static/media/reactlogo.png": "/Portfolio/static/media/reactlogo.20ec11c4799854e3803d.png",
+    "static/media/heropic.jpg": "/Portfolio/static/media/heropic.83f4a0081a009a116ecf.jpg",
+    "static/media/csslogo.png": "/Portfolio/static/media/csslogo.a8075aa10a1287553891.png",
+    "static/media/tailwindlogo.png": "/Portfolio/static/media/tailwindlogo.cb692506a0c55be31c06.png",
+    "static/media/JSlogo.png": "/Portfolio/static/media/JSlogo.81cb0fac1fc6f9a19c3e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.c14f47ca.css.map": "/Portfolio/static/css/main.c14f47ca.css.map",
+    "main.17830d4e.js.map": "/Portfolio/static/js/main.17830d4e.js.map",
+    "787.30237536.chunk.js.map": "/Portfolio/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14f47ca.css",
+    "static/js/main.17830d4e.js"
+  ]
+}
