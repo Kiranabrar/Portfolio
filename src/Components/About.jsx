@@ -5,7 +5,7 @@ function About() {
     <section className="py-10 px-5" id='About'>
     <h2 className="text-3xl font-bold ">Contact Me</h2>
     <div className='container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between' >
-      <div className=" mt-6 container mx-auto ">
+      <div className=" mt-6 container mx-auto w-80">
         <p className=" text-left ms-2 text-md px-auto">
             Hi, My Name Is Kiran Abrar. I am a
             Frontend Developer. I can build beautifull websites with React JS and
