@@ -2,7 +2,7 @@ import React from 'react'
 import portfolio from '../images/portfolio.webp'
 function About() {
   return (
-    <section className="py-10 px-5" id='About'>
+    <section className="py-10" id='About'>
     <h2 className="text-3xl font-bold ">Contact Me</h2>
     <div className='container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between' >
       <div className=" mt-6 container mx-auto w-80">
