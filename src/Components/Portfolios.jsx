@@ -41,8 +41,8 @@ function Portfolios() {
       img: cocktailprojectt,
       title: "Cocktail Website",
       desc: " Responsive and functional Cocktail Website. Used thecocktaildb API in project.Simple CSS Bootstrap for styling & React, Redux-toolkit on the frontend",
-      live: "https://kiranabrar.github.io/cocktail-website/",
-      code: "https://github.com/Kiranabrar/cocktail-website.git",
+      live: "https://kiranabrar.github.io/cocktail/",
+      code: "https://github.com/Kiranabrar/cocktail",
     },
     {
       img: foodieproject,

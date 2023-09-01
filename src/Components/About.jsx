@@ -5,7 +5,7 @@ function About() {
     <section className="py-10 " id='About'>
     <h2 className="text-3xl font-bold ">Contact Me</h2>
     <div className='container mx-auto grid md:grid-cols-2 items-center justify-center px-8 md:justify-between ' >
-      <div className=" mt-6 container mx-auto ms-2 px-5">
+      <div className=" mt-6 container mx-auto ms-2 px-3">
         <p className=" text-left text-md">
             Hi, My Name is Kiran Abrar. I'm Passionate about creating intuitive user interfaces using React JS and Tailwind CSS, 
             with a stong focus on clean code and performance optimization.
