@@ -14,7 +14,7 @@ function About() {
             Check out my projects to see my skills in action. 
             Let's collaborate and build something amazing together!<br/>
             <button className="bg-[#cd4818] hover:bg-[#671e03] py-2 mt-7 px-4 rounded-md">
-          <a  href="#About">Contact me</a> 
+          <a  href="#Contact">Contact me</a> 
         </button>
            
         </p> 
