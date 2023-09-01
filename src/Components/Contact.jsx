@@ -14,11 +14,11 @@ function Contact() {
       e.target.reset();
   }
   return (
-    <section className="py-10 px-5 " id='Contact' >
+    <section className="py-10 " id='Contact' >
      <h2 className="text-3xl font-bold ">Contact Me</h2>
      <div className='container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between'>
       
-      <div className="container mx-auto w-80 h-80  space-x-1  ">
+      <div className="container mx-auto w-80 h-80    ">
       <div className='mt-4  text-left ms-2 text-md'>
         <p><b>Let's talk how I can help you!</b></p><br/>
         <p>If you like my work and want to hire me to avail my services then drop me a Message using Contact form. Thanks!</p>

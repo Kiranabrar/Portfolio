@@ -11,7 +11,8 @@ import Portfolios from './Portfolios';
 export default function Home() {
   return (
 
-    <div>
+    <> 
+
       <Navbar/>
       <HeroSection />
       <About/>
@@ -19,6 +20,8 @@ export default function Home() {
       <Portfolios />
       <Contact />
       <Footer />
-    </div>
+      </>
+     
+    
   )
 }
